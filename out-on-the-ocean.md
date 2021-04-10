@@ -25,7 +25,7 @@ C: Cath James
 M:6/8
 K:A
 A2a gaf | gef edB | Bcd ecd | efe dcB | A2a gaf |
-gef edB |1 Bcd ecd | efe dcB :|2 Bcd efe | dcB AGF |:
-EAB c2A | Fdc dcB | Aag afg | efd ecA |
+gef edB |1 Bcd ecd | efe dcB :|2 Bcd efe | dcB AGF ||
+|: EAB c2A | Fdc dcB | Aag afg | efd ecA |
 EAB c2A | Fdc dcB | A2a- agf | ecB A3 :|
 :::
